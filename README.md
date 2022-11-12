@@ -12,6 +12,8 @@ N/A
 
 The site functions identically as before; when inspecting the code, users should see an improvement in the flow of the code.
 
+[Short video demo](https://watch.screencastify.com/v/CxWalmbRGxlthmW4zJ9j)
+
 ## Credits
 
 Starter code by [Xandromus](https://github.com/Xandromus)
