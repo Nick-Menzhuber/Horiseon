@@ -2,7 +2,7 @@
 
 ## Description
 
-Using starter code for the Horiseon home page, I have completed a code refactor to improve code readability and accessibility while retaining all orginal styling and functionality.
+Using starter code for the Horiseon home page, I have completed a code refactor to improve code readability and accessibility while retaining all orginal styling and functionality. (Test)
 
 ## Installation
 
